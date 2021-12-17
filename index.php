@@ -8,7 +8,7 @@
 		<h2>Welcome to bade website</h2>
 		<?php
 	
-			echo " Learn Easily with Us "
+			echo " Learn Easily with Bade Tutorials "
 		
 		?>
 	</body>
