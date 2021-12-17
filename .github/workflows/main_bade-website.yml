@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'bade-website'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E21B79E9C58467D92C6040E5AEFB00C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B9D7ADA9CE540799059A67837BAF8E3 }}
           package: .
